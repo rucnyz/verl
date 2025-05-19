@@ -123,3 +123,6 @@ ENV/
 logs
 log
 outputs
+/recipe/vulscan_dapo/data/dapo_dataset.json
+/recipe/vulscan_dapo/data/dapo_format_clean_dataset_train_c.json
+/recipe/vulscan_dapo/data/dapo_format_clean_dataset_train_python.json
