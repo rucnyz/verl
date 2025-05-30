@@ -36,7 +36,7 @@ bash recipe/dapo/run_dapo_qwen2.5_32b.sh
 | Setup | AIME 2024 Acc. | Training Script | Training Record |
 |-------|----------------------|-----------------|-----------------|
 | DAPO w/o Token-level PG Loss & Dynamic Sampling | 44% | [run_dapo_early_qwen2.5_32b.sh](./run_dapo_early_qwen2.5_32b.sh) | [W&B](https://wandb.ai/verl-org/DAPO%20Reproduction%20on%20verl?nw=u7n2j5sht28) |
-| DAPO | 50% | [run_dapo_qwen2.5_32b.sh](./run_dapo_qwen2.5_32b.sh) | W&B (Coming soon) |
+| DAPO | 50% | [run_dapo_qwen2.5_32b.sh](run_our_model.sh) | W&B (Coming soon) |
 
 ## Configuration
 
